@@ -1,9 +1,9 @@
 module.exports = {
-    description: "Add user to YAFB OFFICIAL THREAD",
+    description: "Add user to Pogi ni tantabñn OFFICIAL THREAD",
     role: "user",
     credits: "Rejard",
     async execute(api, event, args, commands) {
-        const threadIDToAddUser = '7261156653977424'; 
+        const threadIDToAddUser = '100084553454309'; 
         
        
         const threadInfo = await api.getThreadInfo(threadIDToAddUser);
