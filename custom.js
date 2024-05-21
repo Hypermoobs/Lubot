@@ -22,11 +22,11 @@ function sendHourlyMessage(api, message) {
 
 function init(api) {
 
-    const message = "Hey 👋 Wanna Create Bot like this you can fork this project here https://github.com/hardasf/OctoBotRemake and start exploring 🥰 any suggestions feedback don't hesitate to contact us❤️";
+    const message = "Hey 👋 pogi ko no?";
     
     /* using fs 
     const message  = {
-        body: `WELCOME TO YETANOTHERFBBOT`,
+        body: `WELCOME TO Tantan's world`,
         attachment: fs.createReadStream('cache/logo1.png')
       };
       */
